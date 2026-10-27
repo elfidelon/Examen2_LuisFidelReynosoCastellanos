@@ -112,3 +112,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Paquete de Vuforia (pesa mas de 100 MB)
+/Packages/com.ptc.vuforia.engine-*.tgz
